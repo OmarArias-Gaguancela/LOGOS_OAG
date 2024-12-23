@@ -1,2 +1,2 @@
 # LOGOS_OAG
-LOGOS
+<img src="" width="180" height="100">
